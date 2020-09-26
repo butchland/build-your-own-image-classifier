@@ -1,4 +1,4 @@
-# fastai-binder-app-template
+# Build Your Own Image Classifier Notes
 
 This repository holds the jupyter notebooks accompanying the article ["Build (and Run!) Your Own Neural Net Image Classifier using Colab, Binder, Github, and Google Drive"](https://butchland.github.io/butchland-machine-learning-notes/2020/09/21/byoic-on-colab.html)
 
