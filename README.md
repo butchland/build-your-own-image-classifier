@@ -1,6 +1,6 @@
 # Build Your Own Image Classifier Notes
 
-This repository holds the jupyter notebooks accompanying the article ["Build (and Run!) Your Own Neural Net Image Classifier using Colab, Binder, Github, and Google Drive"](https://butchland.github.io/butchland-machine-learning-notes/2020/09/21/byoic-on-colab.html)
+This repository holds the jupyter notebooks accompanying the article ["Build (and Run!) Your Own Image Classifier using Colab, Binder, Github, and Google Drive"](https://butchland.github.io/butchland-machine-learning-notes/2020/09/21/byoic-on-colab.html)
 
 * [Collect Images for your Image Classifier](https://github.com/butchland/build-your-own-image-classifier/blob/master/colab-build-image-dataset.ipynb)
 * [Cleaning your Images](https://github.com/butchland/build-your-own-image-classifier/blob/master/colab-clean-image-dataset.ipynb)
